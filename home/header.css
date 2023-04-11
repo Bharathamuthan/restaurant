@@ -1,0 +1,30 @@
+.header {
+    height: 200px;
+    width: 100%;
+    background-color: saddlebrown;
+}
+.src {
+    height: 200px;
+    width: 350px;
+}
+.navbar {
+    display: flex;
+}
+.navbar ol {
+    margin-left: 520px;
+    margin-top: 150px;
+}
+.navbar ol li {
+    list-style-type: none;
+    padding-left: 25px;
+    font-size: 20px;
+    color: white;
+    float: left;
+}
+.navbar ol li :hover {
+    color: red;
+}
+.navbar ol li a {
+    text-decoration: none;
+    color: white;
+}

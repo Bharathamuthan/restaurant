@@ -1,0 +1,33 @@
+.men {
+    background-color: black;
+    display: flex;
+}
+.men ol li {
+    float: left;
+    list-style-type: none;
+}
+.men ol li h3 {
+    color: white;
+}
+.veg {
+    height: 300px;
+    width: 290px;
+    padding-left: 80px;
+    margin-left: 50px;
+    margin-top: 80px;
+    border-radius: 10px;
+}
+.non {
+    height: 300px;
+    width: 400px;
+    padding-left: 180px;
+    margin-top: 240px;
+    border-radius: 10px;
+}
+.jui {
+    height: 300px;
+    width: 380px;
+    padding-left: 150px;
+    margin-top: 80px;
+    border-radius: 10px;
+}

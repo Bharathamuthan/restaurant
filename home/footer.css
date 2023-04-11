@@ -1,0 +1,23 @@
+.one {
+    display: flex;
+    background-color:saddlebrown;
+    height: 150px; 
+    width: 100%;
+}
+.sr {
+    height: 130px;
+    padding-top: 10px;
+    width: 180px;
+}
+p {
+    color:yellow;
+    margin-left: 230px;
+    margin-top: 60px;
+    font-size: 20px;
+}
+.two {
+    color:white;
+    font-size: 20px;
+    margin-left: 280px;
+    margin-top: 22px;
+}
