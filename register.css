@@ -1,0 +1,23 @@
+.cll {
+    background-image:linear-gradient(45deg,rgba(39, 32, 32, 0.61),rgba(33, 41, 41, 0.555)), url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex ;
+    height: 700px;
+    
+}
+.fi {
+    text-align: center;
+    border: 1px solid black;
+    height: 500px;
+    width: 400px;
+    margin-left: 470px;
+    margin-top: 80px;
+    background-image: linear-gradient(45deg,rgba(39, 32, 32, 0.61),rgba(33, 41, 41, 0.555)), url('imgback2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input {
+    height: 25px;
+    width: 250px;
+}
