@@ -1,0 +1,42 @@
+.five {
+    display: flex;
+    background-image:linear-gradient(45deg,rgba(39, 32, 32, 0.61),rgba(33, 41, 41, 0.555)), url('../about/imgback1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 935px;
+    width: 100%;
+}
+.six{
+    color: antiquewhite;
+    font-size: 45px;
+    margin-left: 600px;
+    font-style:unset;
+    margin-top: 20px;
+}
+.seven {
+    margin-left: 600px;
+    width: 200px;
+    height: 35px;
+}
+.eight{
+    font-size: 40px;
+    font-style: inherit;
+    font-weight: 1000;
+    margin-left: 900px;
+    color:antiquewhite;
+}
+.nine {
+    font-size: 25px;
+    font-style: inherit;
+    font-weight: 1000;
+    text-align: center;
+    margin-left: 700px;
+    color: thistle;
+}
+.ten {
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    margin-left: 900px;
+    margin-top: 50px;
+}
